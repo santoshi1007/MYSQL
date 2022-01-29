@@ -1,2 +1,0 @@
-# MYSQL
-MYSQL-hackerrank-problems
